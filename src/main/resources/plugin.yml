@@ -1,0 +1,5 @@
+name: CreeperBoom
+version: '${project.version}'
+main: net.ssgssp.creeperboom
+authors: [ mrsongbyssgs ]
+description: A plugin that can stop creeper's boom break the biome
